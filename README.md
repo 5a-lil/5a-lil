@@ -1,33 +1,33 @@
-# Salut ! Moi c'est Liliane 👋
+# Salut, moi c'est Khalil ! 👋
 
-### Développeuse Web en herbe | Passionnée par le Design & le Code
+### Software Engineer | Étudiant à 42 🏫
 
-Je suis une développeuse curieuse qui aime transformer des idées en expériences numériques concrètes. Actuellement, je me concentre sur le perfectionnement de mes compétences en **Frontend** et en **Architecture Web**.
-
----
-
-### 🚀 Ce que je fais en ce moment
-- 🔭 Je travaille actuellement sur l'amélioration de mon [Portfolio personnel](https://github.com/5a-lil/Portfolio).
-- 🌱 J'apprends approfondis mes connaissances en **JavaScript moderne** et les frameworks comme **React**.
-- ⚡ Fun fact : J'adore l'équilibre entre la logique du code et l'esthétique du design.
+Passionné par l'architecture logicielle, le développement système et les infrastructures modernes. J'aime comprendre comment les choses fonctionnent sous le capot, du noyau d'un shell aux microservices conteneurisés.
 
 ---
 
-### 🛠 Mon Stack Technique
-
-**Langages & Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Outils & Environnement**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🛠 Ce que je build en ce moment
+- 💻 **[minishell](https://github.com/5a-lil/minishell)** : Recréation d'un shell Bash en C (parsing, pipes, redirections, builtins).
+- 🌐 **[ft_transcendence](https://github.com/5a-lil/ft_transcendence)** : Une plateforme web complète en microservices (Docker, TypeScript, Fastify) avec un jeu de Pong en temps réel.
+- ⚙️ **Architecture & Backend** : Focus sur la performance et la robustesse du code.
 
 ---
 
-### 📊 Statistiques GitHub
+### 🏗 Mon Stack Technique
+
+**Langages & Système**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Infrastructure & Web**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 Mes Stats GitHub
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=5a-lil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5a-lil&layout=compact&theme=tokyonight"/>
@@ -37,9 +37,9 @@ Je suis une développeuse curieuse qui aime transformer des idées en expérienc
 
 ### 📫 Me contacter
 - **GitHub**: [5a-lil](https://github.com/5a-lil)
-- **LinkedIn**: [Ton Nom](Lien-vers-ton-profil)
+- **LinkedIn**: [Ton Profil](Lien-vers-ton-LinkedIn)
 
 ---
 <p align="center">
-  <i>"Le code est comme l'humour. Quand on doit l'expliquer, c'est qu'il est mauvais."</i>
+  <i>"Low-level programming is good for the soul."</i>
 </p>
