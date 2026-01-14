@@ -7,7 +7,7 @@
 
   <br /><br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=450&height=50&lines=CONTACT+ME+AND+NEVER+REGRET+✅" alt="Contact Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=450&height=50&lines=CONTACT%20ME%20AND%20NEVER%20REGRET%20%E2%9C%85" alt="Contact Me" />
 
   <br />
 
