@@ -7,11 +7,11 @@
 
   <br /><br />
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/khalil-hadj-messaoud-baa578351/?originalSubdomain=fr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/5a-lil" target="_blank">
     <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
