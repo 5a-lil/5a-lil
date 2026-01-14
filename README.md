@@ -8,7 +8,8 @@
   <br /><br />
 
   &nbsp;
+  <span style="font-family: 'Fira Code', monospace; font-weight: 600; color: #9370DB; vertical-align: middle; margin-right: 10px;">CONTACT ME AND NEVER REGRET ✅ :</span>
   <a href="https://discord.com/users/5a-lil" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;"/>
   </a>
 </div>
