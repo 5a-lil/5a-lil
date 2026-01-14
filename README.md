@@ -7,7 +7,9 @@
 
   <br /><br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&color=9370DB&center=true&width=450&lines=CONTACT+ME+AND+NEVER+REGRET+✅" alt="Contact Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=450&height=50&lines=CONTACT+ME+AND+NEVER+REGRET+✅" alt="Contact Me" />
+
+  <br />
 
   <a href="https://discord.com/users/5a-lil" target="_blank">
     <img src="https://img.shields.io/badge/Discord-9370DB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
