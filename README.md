@@ -3,7 +3,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&stroke=ffffff80&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=C+%2F+C%2B%2B+DEVELOPER+%E2%80%A2+ASM+LEARNER" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=C+%2F+C%2B%2B+DEVELOPER+%E2%80%A2+ASM+LEARNER" alt="Subtitle" />
 
   <br /><br />
 
